@@ -10,9 +10,13 @@ Enhanced user experience with user-friendly error messages.
 Responsive design.
 
 ## Pictures
+
 ![SignUp Page](/screenshots/signup.png)
+
 ![SignUp Page With All Error Message](/screenshots/signup1.png)
+
 ![SignUp Page With Password Error Messages](/screenshots/signup2.png)
+
 
 
 
