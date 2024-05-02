@@ -4,10 +4,10 @@
 This project aims to create a sign-up page using the Formik and Yup libraries. Formik and Yup are used to validate user input data during registration and to return specific error messages, enhancing user experience.
 
 ## Features 
-A form screen for users to sign up.
-Form validation and error handling using Formik and Yup.
-Enhanced user experience with user-friendly error messages.
-Responsive design.
+1.A form screen for users to sign up.
+2.Form validation and error handling using Formik and Yup.
+3.Enhanced user experience with user-friendly error messages.
+4.Responsive design.
 
 ## Pictures
 
